@@ -1,0 +1,8 @@
+platform:ios,'8.0'
+ 
+target ‘QGY_AFNetorking’ do
+
+pod 'AFNetworking' #网络请求
+pod 'MJExtension' #json model解析
+ 
+end
